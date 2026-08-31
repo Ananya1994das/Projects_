@@ -1,9 +1,9 @@
-#Exploratory Data Analysis (EDA) Projects
+# Exploratory Data Analysis (EDA) Projects
 
 Overview
 This repository contains a collection of my personal Exploratory Data Analysis (EDA) projects. Each project involves exploring various datasets to gain insights, uncover patterns, and visualize trends.
 
-#Projects-
+# Projects-
 # 🏨 Hotel Booking Analysis
 
 ## 📌 Project Overview
